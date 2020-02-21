@@ -1,0 +1,36 @@
+.comments__container {
+   width: 90%;
+   margin: auto;
+   margin-bottom: 64px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+@media (min-width: 375px) {
+   .comments__container {
+      margin-bottom: 102px;
+   }
+}
+
+@media (min-width: 768px) {
+   .comments__container {
+      align-items: center;
+   }
+}
+
+@media (min-width: 1024px) {
+   .comments__container {
+      flex-direction: row;
+   }
+}
+
+@media (min-width: 1280px) {
+   .comments__container {
+      width: 1184px;
+      margin: auto;
+      margin-left: 48px;
+   }
+}
+
+

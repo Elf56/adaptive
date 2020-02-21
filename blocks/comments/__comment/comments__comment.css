@@ -1,0 +1,21 @@
+.comments__comment {
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   align-items: center;
+}
+
+
+@media (min-width: 768px) {
+   .comments__comment {
+      width: calc((90%-36px)/3);
+   }
+
+
+
+   .comments__comment {
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+   }
+}
