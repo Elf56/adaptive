@@ -1,0 +1,11 @@
+.comments__author {
+   font-size: 14px;
+   line-height: 23px;
+   text-align: center;
+}
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+   .comments__author {
+      text-align: start;
+   }
+}

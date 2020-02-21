@@ -1,0 +1,95 @@
+@import url('../blocks/content-subtitle/content-subtitle.css');
+@import url('../blocks/content-title/content-title.css');
+@import url('../blocks/header/header.css');
+@import url('../blocks/intro/intro.css');
+@import url('../blocks/lead/lead.css');
+@import url('../blocks/photo-grid/photo-grid.css');
+@import url('../blocks/select/select.css');
+@import url('../blocks/additional/additional.css');
+@import url('../blocks/comments/comments.css');
+@import url('../blocks/cover/cover.css');
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/body/body.css');
+@import url('../blocks/places/places.css');
+@import url('../blocks/video/video.css');
+
+html {
+   background-color: #2A2C2F;
+   overflow-x: hidden;
+}
+
+@font-face {
+   src: url('../fonts/Inter-Regular.ttf');
+   font-family: 'inter';
+}
+@font-face {
+   src: url('../fonts/Inter-Italic.ttf');
+   font-family: 'Inter';
+   font-style: italic;
+}
+@font-face {
+   src: url('../fonts/Inter-ExtraBold.ttf');
+   font-family: 'Inter';
+   font-weight: bold;
+}
+@font-face {
+   src: url('../fonts/Inter-BoldItalic.ttf');
+   font-family: 'Inter';
+   font-style: italic;
+   font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
